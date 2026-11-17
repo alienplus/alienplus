@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Ahmed Ehab, Forward Deployed AI Engineer</title>
+  <desc id="d">Banner with the name Ahmed Ehab inside an animated detection box labelled ahmed ehab 0.98</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#1b2a4a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#f5b83d" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#f5b83d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#8fa3c7" fill-opacity="0.22"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .box { stroke-dasharray: 1700; stroke-dashoffset: 1700; animation: draw 2.2s ease-out .3s forwards; }
+      .fade { opacity: 0; animation: fadein .8s ease-out 1.7s forwards; }
+      .fade2 { opacity: 0; animation: fadein .8s ease-out 2.1s forwards; }
+      .fade3 { opacity: 0; animation: fadein .8s ease-out 2.5s forwards; }
+      .pulse { animation: pulse 2.4s ease-in-out 3s infinite; }
+      .scan { animation: scan 5s linear 2.4s infinite; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes fadein { to { opacity: 1; } }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+      @keyframes scan { 0% { transform: translateY(0); opacity: 0; } 10% { opacity: .8; } 90% { opacity: .8; } 100% { transform: translateY(150px); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .box,.fade,.fade2,.fade3,.pulse,.scan { animation: none; stroke-dashoffset: 0; opacity: 1; } .scan { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="14" fill="url(#dots)"/>
+  <rect width="1000" height="300" rx="14" fill="url(#glow)"/>
+
+  <!-- detection box around the name -->
+  <g transform="translate(70,62)">
+    <rect class="box" x="0" y="0" width="560" height="150" fill="none" stroke="#f5b83d" stroke-width="3"/>
+    <g class="fade">
+      <rect x="-1.5" y="-26" width="184" height="26" fill="#f5b83d"/>
+      <text class="mono" x="10" y="-8" font-size="15" font-weight="600" fill="#0b1220">ahmed ehab 0.98</text>
+    </g>
+    <rect class="scan" x="4" y="4" width="552" height="2" fill="#f5b83d" fill-opacity="0.55"/>
+    <text class="sans fade" x="32" y="78" font-size="68" font-weight="800" fill="#f8fafc" letter-spacing="-1.5">Ahmed Ehab</text>
+    <text class="sans fade2" x="34" y="116" font-size="23" font-weight="500" fill="#c7d3ea">Forward Deployed AI Engineer</text>
+  </g>
+
+  <g class="fade3">
+    <text class="mono" x="72" y="248" font-size="15" fill="#8fa3c7">LLM apps  ·  RAG  ·  AI agents  ·  Computer vision  ·  FastAPI</text>
+    <text class="mono" x="72" y="272" font-size="15" fill="#8fa3c7">Egypt  →  teams around the world</text>
+  </g>
+
+  <!-- status pill -->
+  <g class="fade3" transform="translate(630,206)">
+    <rect width="330" height="44" rx="22" fill="#0b1220" fill-opacity="0.7" stroke="#2f4470"/>
+    <circle class="pulse" cx="26" cy="22" r="6" fill="#4ade80"/>
+    <text class="mono" x="44" y="27" font-size="15" fill="#e6edf8">Open to freelance &amp; part-time</text>
+  </g>
+</svg>
