@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Ahmed Ehab, Forward Deployed AI Engineer" width="100%"/>
 
 <p>
-  <a href="https://ahmedehab.dev"><img src="https://img.shields.io/badge/Website-ahmedehab.dev-0b1220?style=for-the-badge&logo=cloudflare&logoColor=f5b83d" alt="Website"/></a>
+  <a href="https://ahmedehab.dev"><img src="https://img.shields.io/badge/Website-ahmedehab.dev-0b1220?style=for-the-badge&logo=googlechrome&logoColor=f5b83d" alt="Website"/></a>
   <a href="https://linkedin.com/in/alienplus"><img src="https://img.shields.io/badge/LinkedIn-alienplus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@laith-1536"><img src="https://img.shields.io/badge/YouTube-Laith-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://cal.com/ahmedehab-ai/discovery-meeting"><img src="https://img.shields.io/badge/Book_a_call-cal.com-111827?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a discovery call"/></a>
@@ -46,7 +46,7 @@ I've shipped AI products and internal platforms for international clients, from 
 
 I led a team of four and owned most of the technical work: the front end, the back end, and deployment.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 <a href="https://vitalents.life"><b>▶ Try the live demo</b></a> · <a href="https://github.com/Vitalents/vitalents_app">Source</a>
 
@@ -195,7 +195,7 @@ I'm open to **freelance and part-time projects** in AI engineering: document ass
 <p>
   <a href="https://cal.com/ahmedehab-ai/discovery-meeting"><img src="https://img.shields.io/badge/Book_a_discovery_call-f5b83d?style=for-the-badge&logo=googlecalendar&logoColor=0b1220&labelColor=0b1220" alt="Book a discovery call"/></a>
   <a href="mailto:hello@ahmedehab.dev"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-  <a href="https://ahmedehab.dev"><img src="https://img.shields.io/badge/See_the_portfolio-0b1220?style=for-the-badge&logo=cloudflare&logoColor=f5b83d" alt="See the portfolio"/></a>
+  <a href="https://ahmedehab.dev"><img src="https://img.shields.io/badge/See_the_portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=f5b83d" alt="See the portfolio"/></a>
 </p>
 
 <img src="assets/footer.svg" alt="" width="100%"/>
